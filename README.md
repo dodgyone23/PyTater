@@ -10,7 +10,7 @@ PyTater is a CLI-based $STRCH miner for the Starch Chain by Starch Industries.
 For more information about starch chain, please read the [Starch Chain Manifesto](https://github.com/StarchIndustries/SIPs/blob/e75e1828105b5b716e57a1e905ac1bc88619bdef/MANIFESTO.md).
 
 You can run the miner by cloning this repository to your local machine and executing the following commands, you
-will be prompted to enter your Minder ID, and then you're off to the taters!
+will be prompted to enter your Miner ID, and then you're off to the taters!
 
 ```shell
 > cd PyTater
